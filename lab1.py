@@ -22,3 +22,5 @@ f2 = Figure("Square", 20.0)
 # Викликаємо метод і виводимо результат
 print(f1.get_figure())
 print(f2.get_figure())
+def double_area(self):
+    return self.__area * 2
